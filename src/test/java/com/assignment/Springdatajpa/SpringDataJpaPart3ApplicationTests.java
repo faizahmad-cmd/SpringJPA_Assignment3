@@ -1,10 +1,10 @@
-package com.JPA_3.Assignment3;
+package com.assignment.Springdatajpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Assignment3ApplicationTests {
+class SpringDataJpaPart3ApplicationTests {
 
 	@Test
 	void contextLoads() {
